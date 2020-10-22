@@ -1,6 +1,8 @@
 Food App ui built with Flutter 
 Inspiration from Dribble
-I couldn't get the real assets but I replaced them with the available one's 
+I couldn't get the real assets but I replaced them with the available one's
+changes has been made 
+
 
 ## 💻 Requirements
 
@@ -17,11 +19,9 @@ I couldn't get the real assets but I replaced them with the available one's
 
 <!-- <img src="ss/mockup.png"/> -->
 
-<img src="ss/ss1.png" width="400">
-<img src="ss/ss2.png" width="400">
-
-## 😋 Inspiration Dribble 
-<img src="ss/realPicture.jpg" width="400">
+<img src="ss/Screenshot (21).png" width="400">
+<img src="ss/Screenshot (27).png" width="400"> 
+<img src="ss/Screenshot (26).png" width="400">
 
 ## 🤓 Author(s)
 
