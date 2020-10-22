@@ -19,9 +19,11 @@ changes has been made
 
 <!-- <img src="ss/mockup.png"/> -->
 
-<img src="ss/Screenshot (21).png" width="400">
-<img src="ss/Screenshot (27).png" width="400"> 
-<img src="ss/Screenshot (26).png" width="400">
+<img src="ss/Screenshot_20201022-092924.png" width="400">
+<img src="ss/Screenshot_20201022-092933.png" width="400">
+
+ 
+<img src="ss/Screenshot_20201022-092943.png" width="400">
 
 ## 🤓 Author(s)
 
